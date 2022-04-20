@@ -1,8 +1,5 @@
 <p align="center"><img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20JunsangMun%20&fontAlign=30&fontSize=30&textBg=true&desc=aka.%20%27moon%27&descAlign=60&descAlignY=50" /> </p>
-
----
-
-# Hi, I'm Moon
+<br><br>
 
 <h3 align="center"> 🛠 A technology stack that I've used at least once
  🛠 </h3>
@@ -26,7 +23,7 @@
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
-
+<br>
 
 
 <h3 align="center"> 💻 Tools I'm familiar with 💻 </h3>
@@ -46,7 +43,7 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <br>
 </p>
-
+<br><br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Junsang-Mun&count_private=true" /> </p>
 
