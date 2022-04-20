@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20JunsangMun%20&fontAlign=30&fontSize=30&textBg=true&desc=aka.%20%27moon%27&descAlign=60&descAlignY=50" /> </p>
+<p align="center"><img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Junsang%20Mun%20&fontAlign=30&fontSize=30&textBg=true&desc=aka.%20%27moon%27&descAlign=60&descAlignY=50" /> </p>
 <br><br>
 
 <h3 align="center"> 🛠 A technology stack that I've used at least once
