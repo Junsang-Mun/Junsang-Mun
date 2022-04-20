@@ -27,7 +27,7 @@
 
 
 <h3 align="center"> 💻 Tools I'm familiar with 💻 </h3>
-<p align="center"> 익숙하게 사용할 수 있는  </p>
+<p align="center"> 익숙하게 사용할 수 있는 툴들 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
