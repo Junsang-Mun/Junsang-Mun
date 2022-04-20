@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=rect&text=Junsang%20Mun&desc=aka.%20moon&animation=fadeIn)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junsang-Mun&count_private=true)
+
+
 <!--
 **Junsang-Mun/Junsang-Mun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
