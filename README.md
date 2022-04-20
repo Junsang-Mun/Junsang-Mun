@@ -1,4 +1,4 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Junsang Mun%20&fontAlign=30&fontSize=30&textBg=true&desc=aka.%20%27moon%27&descAlign=60&descAlignY=50)
+<p align="center"><img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20JunsangMun%20&fontAlign=30&fontSize=30&textBg=true&desc=aka.%20%27moon%27&descAlign=60&descAlignY=50" /> </p>
 
 ---
 
@@ -48,8 +48,7 @@
 </p>
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Junsang-Mun&count_private=true" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Junsang-Mun&count_private=true" /> </p>
 
 
 
