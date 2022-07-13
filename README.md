@@ -1,10 +1,7 @@
 <p align="center"><img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Junsang%20Mun%20&fontAlign=30&fontSize=30&textBg=true&desc=aka.%20%27moon%27&descAlign=60&descAlignY=50" /> </p>
 <br><br>
 
-<h3 align="center"> 🛠 A technology stack that I've used at least once
- 🛠 </h3>
-
-<p align="center"> 단 한 번이라도 사용해본 기술들 </p>
+<h3 align="center"> 🛠 단 한 번이라도 사용해본 기술들 🛠 </h3>
 
 <p align="center">
       <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
@@ -26,8 +23,7 @@
 <br>
 
 
-<h3 align="center"> 💻 Tools I'm familiar with 💻 </h3>
-<p align="center"> 익숙하게 사용할 수 있는 툴들 </p>
+<h3 align="center"> 💻 익숙하게 사용할 수 있는 툴 💻 </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
