@@ -44,7 +44,7 @@
 <h3 align="center"> 📧 Contact Me 📫 </h3>
 
 <p align="center">
-    <a href="https://barobaro.icu"><img src="https://img.shields.io/badge/BLOG-ffffff?style=flat-square&logo=Ghost&logoColor=black"/></a>
+    <a href="https://junsang-mun.github.io"><img src="https://img.shields.io/badge/BLOG-#CC0000?style=flat-square&logo=Jekyll&logoColor=black"/></a>
     <a href="mailto:mun.js@aol.com"><img src="https://img.shields.io/badge/Mail-3399FF?style=flat-square&logo=AOL&logoColor=white"/></a>
  </p>
 <br>
