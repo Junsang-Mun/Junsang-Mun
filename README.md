@@ -43,7 +43,7 @@ I enjoy diving into full-stack development, DevOps, and open-source tools — es
 ## 🚧 Projects
 
 ### junsang.dev — Personal Blog
-> This GitHub page is one of my projects! Built with **Svelte** and **Tailwind CSS**.
+> Built with **Svelte** and **Tailwind CSS**.
 
 [🔗 View Blog](https://junsang.dev)
 
