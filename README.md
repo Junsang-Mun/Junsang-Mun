@@ -6,6 +6,7 @@
   <a href="https://github.com/Junsang-Mun">💻 GitHub</a> •
   <a href="https://www.linkedin.com/in/%EC%A4%80%EC%83%81-%EB%AC%B8-b567b027a/">🔗 LinkedIn</a> •
   <a href="https://junsang.dev">🌐 Blog</a>
+  <a href="https://junsang.dev/about">📄 CV</a>
 </p>
 
 ---
