@@ -1,69 +1,37 @@
-<h1 align="center">Hi, I'm Junsang Moon 👋</h1>
-<h3 align="center">A curious developer & open-source community builder</h3>
+# Hi, I'm Junsang Moon 👋
 
-<p align="center">
-  <a href="mailto:mun.js@aol.com">📧 Email</a> •
-  <a href="https://github.com/Junsang-Mun">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/%EC%A4%80%EC%83%81-%EB%AC%B8-b567b027a/">🔗 LinkedIn</a> •
-  <a href="https://junsang.dev">🌐 Blog</a> •
-  <a href="https://junsang.dev/about">📄 CV</a>
-</p>
+I build things for the web and help bring people together around open source.
 
----
+Based in South Korea, I'm the representative of the **Ubuntu Korea Community** and have completed the **42 Seoul Common Core**. My interests include web development, Linux, and self-hosting.
 
-## 🧠 About Me
+[Email](mailto:mun.js@aol.com) · [Blog](https://junsang.dev) · [About Me](https://junsang.dev/about) · [LinkedIn](https://www.linkedin.com/in/%EC%A4%80%EC%83%81-%EB%AC%B8-b567b027a/)
 
-I'm a developer who learns best by building and sharing.
-I enjoy diving into full-stack development, DevOps, and open-source tools — especially when they help people collaborate better.
+## Community
 
-- Student at **42 Seoul**
-- Representative at **Ubuntu Korea Community**
-- Passionate about growing developer communities and creating spaces for learning.
+I've been involved in the **Ubuntu Korea Community** as an event organizer since April 2023 and as its representative since December 2023.
 
-> I believe the best tech is built together, not alone.
+I help organize UbuCon Korea and community meetups, coordinate with speakers and sponsors, and connect people interested in Ubuntu and open source.
 
----
+I value the work that makes a community possible: planning events, sharing knowledge, and making it easier for people to participate.
 
-## 🌱 Community
+## Things I Build & Explore
 
-**Representative**  
-*Ubuntu Korea Community · 2023 – Present*
-- Organized events like UbuCon Korea, tech meetups, and workshops.
-- Promoted open-source collaboration locally and globally.
+* **[junsang.dev](https://junsang.dev)** — My personal blog, built with SvelteKit and Tailwind CSS and deployed on Cloudflare Workers
+* **Linux & self-hosting** — Setting up and maintaining services for my own use
+* **Small tools** — Turning everyday inconveniences into things I can build and improve
 
----
+## Background
 
-## 📚 Education
+**42 Seoul — Common Core completed**
 
-**42 Seoul**  
-*Software Engineering Member · 2023 – Present*
-- Peer-to-peer, project-based learning curriculum.
+A peer-to-peer, project-based curriculum where I worked with C and C++, learned through code reviews, and solved problems alongside other learners.
 
----
+## Technologies I Use
 
-## 🚧 Projects
+* **Languages:** JavaScript, C, C++
+* **Web:** SvelteKit, Tailwind CSS, Node.js
+* **Tools & infrastructure:** Git, Linux, Docker, Cloudflare Workers
 
-### junsang.dev — Personal Blog
-> Built with **Svelte** and **Tailwind CSS**.
+## Beyond Code
 
-[🔗 View Blog](https://junsang.dev)
-
----
-
-## 🛠 Skills
-
-### Languages
-- JavaScript · C · C++
-
-### Frameworks & Tools
-- SvelteKit · Node.js
-- Git · Docker · Linux
-
-### Soft Skills
-- Teamwork · Problem-solving · Communication
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junsang-Mun&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+I enjoy photography, especially finding small details and different perspectives in everyday scenes.
